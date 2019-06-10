@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ruby Methods Inside Out""
-date:       2019-06-10 16:39:28 +0000
+date:       2019-06-10 12:39:28 -0400
 permalink:  ruby_methods_inside_out
 ---
 
