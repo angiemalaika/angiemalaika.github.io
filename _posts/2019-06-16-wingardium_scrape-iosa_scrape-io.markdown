@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Wingardium Scrape-iosa! Scrape-io!"
-date:       2019-06-17 02:59:17 +0000
+date:       2019-06-16 22:59:18 -0400
 permalink:  wingardium_scrape-iosa_scrape-io
 ---
 
